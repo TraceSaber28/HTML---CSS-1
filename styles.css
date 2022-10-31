@@ -1,0 +1,29 @@
+h1 {
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    font-family:  cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+div {
+    margin: auto;
+    text-align: center;
+}
+
+button {
+    margin: 20px;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(185, 182, 182);
+    
+}
+Button-Container {
+    margin:auto
+}
+
+
